@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "./static/css/main.7efd4b9e.chunk.css",
-    "main.js": "./static/js/main.427543b2.chunk.js",
-    "main.js.map": "./static/js/main.427543b2.chunk.js.map",
+    "main.js": "./static/js/main.1e96c7e0.chunk.js",
+    "main.js.map": "./static/js/main.1e96c7e0.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.fff6ee50.js",
     "runtime-main.js.map": "./static/js/runtime-main.fff6ee50.js.map",
-    "static/js/2.fd41a32b.chunk.js": "./static/js/2.fd41a32b.chunk.js",
-    "static/js/2.fd41a32b.chunk.js.map": "./static/js/2.fd41a32b.chunk.js.map",
+    "static/js/2.da7767ba.chunk.js": "./static/js/2.da7767ba.chunk.js",
+    "static/js/2.da7767ba.chunk.js.map": "./static/js/2.da7767ba.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.d905c9a01abec0e1b2c2e7bef6241edf.js": "./precache-manifest.d905c9a01abec0e1b2c2e7bef6241edf.js",
+    "precache-manifest.4088aaf1651203449b3178d86a7eb71f.js": "./precache-manifest.4088aaf1651203449b3178d86a7eb71f.js",
     "service-worker.js": "./service-worker.js",
     "static/css/main.7efd4b9e.chunk.css.map": "./static/css/main.7efd4b9e.chunk.css.map",
     "static/media/index.css": "./static/media/Montserrat-Regular.ee653992.ttf",
@@ -18,6 +18,7 @@
     "static/media/animated_logo.svg": "./static/media/animated_logo.dcd6dee2.svg",
     "static/media/blogs_image.svg": "./static/media/blogs_image.058eca4c.svg",
     "static/media/cloud_infrastructure.svg": "./static/media/cloud_infrastructure.cacbc42b.svg",
+    "static/media/cme-group.jpeg": "./static/media/cme-group.260965c1.jpeg",
     "static/media/codeInLogo.png": "./static/media/codeInLogo.fee92c18.png",
     "static/media/contactMail.png": "./static/media/contactMail.5f915405.png",
     "static/media/data_science.svg": "./static/media/data_science.ebf35d7f.svg",
@@ -47,6 +48,7 @@
     "static/media/manOnTable.svg": "./static/media/manOnTable.83ac24fb.svg",
     "static/media/muffito_logo.png": "./static/media/muffito_logo.069938a8.png",
     "static/media/neu_logo.svg": "./static/media/neu_logo.d0af9b2c.svg",
+    "static/media/new-york-life-logo.jpeg": "./static/media/new-york-life-logo.5ce008a1.jpeg",
     "static/media/nptel_logo.png": "./static/media/nptel_logo.95a12a2b.png",
     "static/media/platforms.png": "./static/media/platforms.b1194aef.png",
     "static/media/portfolio.gif": "./static/media/portfolio.414dfbd9.gif",
@@ -62,8 +64,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.fff6ee50.js",
-    "static/js/2.fd41a32b.chunk.js",
+    "static/js/2.da7767ba.chunk.js",
     "static/css/main.7efd4b9e.chunk.css",
-    "static/js/main.427543b2.chunk.js"
+    "static/js/main.1e96c7e0.chunk.js"
   ]
 }
